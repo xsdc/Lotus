@@ -17,7 +17,7 @@
 
 Lotus is a proof-of-concept full-stack home rentals application designed to connect Apple platforms with cloud and graph-based technologies seamlessly. The initial focus is to establish an end-to-end modern platform that serves as a reference for various domains.
 
-Once the foundations are established, the project's ultimate goal will be centered around applying various aspects of data science and machine learning to the technology stack.
+Once the foundations are established, the project's ultimate goal will be centered around applying various aspects of data science to the technology stack.
 
 ## Principles
 
